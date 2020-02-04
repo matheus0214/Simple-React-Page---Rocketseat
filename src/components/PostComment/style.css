@@ -1,0 +1,20 @@
+.commentPost {
+  margin: 10px 0 10px 30px;
+}
+
+.contentComment {
+  background-color: rgb(245, 245, 245);
+  padding: 10px;
+  border-radius: 20px;
+  text-align: justify;
+}
+
+strong {
+  padding: 0 5px 0 0;
+}
+
+p {
+  font-size: 15px;
+  color: rgb(85, 85, 85);
+  line-height: 1.5em;
+}

@@ -1,0 +1,28 @@
+header {
+  padding: 20px 0;
+  background-color: #6998f5;
+  color: white;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.login {
+  display: flex;
+  align-items: center;
+}
+
+.login img {
+  width: 30px;
+  height: 30px;
+  margin-left: 15px;
+}
+
+.login a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
